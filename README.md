@@ -1,0 +1,1 @@
+School Project to implement arraylist and linked list. In the src folder the files ArrestOperation.java and PoliceDepartment.java are the area of the project where my contributions and coding were made. The rest was provided by the Data Structure course TA's.
